@@ -177,7 +177,7 @@
   }
   
   .hero__heading span {
-    background: #873F67; /* fallback for old browsers */
+    background: #873F67; 
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -187,7 +187,7 @@
 
   .hero__body {
     font-size: 60px;
-    background: #703355; /* fallback for old browsers */
+    background: #703355;
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -197,7 +197,7 @@
   
   .hero__description {
     font-size: 60px;
-    background: #703355; /* fallback for old browsers */
+    background: #703355; 
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -314,7 +314,7 @@
     height: 500px;
     width: 500px;
     border-radius: 4px;
-    background-image: url('/images/image-removebg.png');
+    background-image: url('image-removebg.png');
     background-size: cover;
     position: relative;
     color: #fff;
@@ -425,21 +425,21 @@
     flex-direction: column;
     justify-content: center;
     color: #fff;
-    background-image: url('/images/nail1.jpg');
+    background-image: url('nail1.jpg');
     background-size: cover;
     transition: 0.3s ease-in;
   }
 
   .services__card:nth-child(2) {
-    background-image: url('/images/nail2.jpg');
+    background-image: url('nail2.jpg');
   }
   
   .services__card:nth-child(3) {
-    background-image: url('/images/nails3.jpg');
+    background-image: url('nails3.jpg');
   }
 
   .services__card:nth-child(4) {
-    background-image: url('/images/nails4.jpg');
+    background-image: url('nails4.jpg');
   }
 
   .services__btn {
